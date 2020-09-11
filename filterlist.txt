@@ -1,0 +1,10 @@
+[Adblock]
+! Title: my own personal ad-blocks for site block
+! Description: Hello, Goodbye 토착왜구 in your browser.
+
+! =================
+! Stop the 토착왜구
+! =================
+
+||*.chosun.com/*
+||*.donga.com/*
